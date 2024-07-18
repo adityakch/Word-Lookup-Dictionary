@@ -2,6 +2,8 @@
 
 Word Lookup Dictionary is a user-friendly desktop application that brings the dictionary to your fingertips. Built with Python, it combines a local word database with online definition lookup, providing a comprehensive and efficient word reference tool.
 
+![](world_lookup.png)
+
 ## ✨ Features
 - 🔍 Word Definition Lookup: Instantly search for definitions of English words.
 - 📖 Local Dictionary: Maintains a robust local word list for lightning-fast verification.
